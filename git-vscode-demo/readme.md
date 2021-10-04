@@ -1,4 +1,3 @@
 # git at Visual Studio Code
 
-
-second commit
+File created to be a sandbox, practicing to use Git+VSCode.
